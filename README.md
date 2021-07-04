@@ -40,7 +40,7 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 Antes de começar é necessário ter o Node.js e Git instalado para conseguir rodar este projeto.
 
-- 1 - Clone esse repositório: `git clone https://github.com/pedroduarte2005/nlw-03-omnistack.git`;
+- 1 - Clone esse repositório: `git clone https://github.com/pduartesilva2005/nlw-03-omnistack.git`;
 - 2 - Entre na pasta do projeto: `cd nlw-03-omnistack`;
 - 3 - Rode o back-end da aplicação
   - Entrar na pasta: `cd backend`;
